@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.scripts]
 # Section managed with vi
-pdfmerge = "pdfmerge.pdfmerge:main"
+pdfmerge = "dml_pdfmerge.pdfmerge:main"
 
 [tool.poetry.dependencies]
 python = "^3.11"
