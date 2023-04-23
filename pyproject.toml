@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pdfmerge"
+name = "dml-pdfmerge"
 version = "2023.4.1001"
 description = "Script to merge pdfs into a new pdf."
 authors = ["David Lane <cheery.koala5370@fastmail.com>"]
