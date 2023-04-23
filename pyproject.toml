@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dml-pdfmerge"
-version = "2023.4.1001"
+version = "2023.4.1002"
 description = "Script to merge pdfs into a new pdf."
 authors = ["David Lane <cheery.koala5370@fastmail.com>"]
 license = "MIT"
@@ -30,7 +30,7 @@ secondary = true
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 [tool.bumpver]
-current_version = "2023.4.1001"
+current_version = "2023.4.1002"
 version_pattern = "YYYY.MM.BUILD"
 commit_message = "bump version {old_version} -> {new_version}"
 commit = true
